@@ -37,3 +37,4 @@ Monitoring: Prometheus, Grafana, AWS CloudWatch, Azure Monitor
 Security: HashiCorp Vault, AWS IAM, Azure Active Directory
 
 Scripting: Bash, PowerShell, Python
+
