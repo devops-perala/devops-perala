@@ -9,7 +9,7 @@ This repository is structured for hands-on learning, covering real-world DevOps 
 
 🐳 Containerization & Orchestration with Docker & Kubernetes
 
-🚀 CI/CD Pipelines using GitHub Actions, Azure Pipelines, and AWS CodePipeline
+🚀 CI/CD Pipelines using Jenkins, GitHub Actions, Azure Pipelines,ArgoCD and AWS CodePipeline
 
 📦 Configuration Management with Ansible
 
